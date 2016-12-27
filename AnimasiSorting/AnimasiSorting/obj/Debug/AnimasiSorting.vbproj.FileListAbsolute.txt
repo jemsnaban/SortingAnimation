@@ -1,0 +1,19 @@
+C:\Users\EliaW\Documents\1 UKDW\semester_10\Sorter\AnimasiSorting\AnimasiSorting\bin\Debug\AnimasiSorting.dll
+C:\Users\EliaW\Documents\1 UKDW\semester_10\Sorter\AnimasiSorting\AnimasiSorting\bin\Debug\AnimasiSorting.pdb
+C:\Users\EliaW\Documents\1 UKDW\semester_10\Sorter\AnimasiSorting\AnimasiSorting\bin\Debug\AnimasiSorting.xml
+C:\Users\EliaW\Documents\1 UKDW\semester_10\Sorter\AnimasiSorting\AnimasiSorting\obj\Debug\AnimasiSorting.Resources.resources
+C:\Users\EliaW\Documents\1 UKDW\semester_10\Sorter\AnimasiSorting\AnimasiSorting\obj\Debug\AnimasiSorting.SortingPanel.resources
+C:\Users\EliaW\Documents\1 UKDW\semester_10\Sorter\AnimasiSorting\AnimasiSorting\obj\Debug\AnimasiSorting.vbproj.GenerateResource.Cache
+C:\Users\EliaW\Documents\1 UKDW\semester_10\Sorter\AnimasiSorting\AnimasiSorting\obj\Debug\AnimasiSorting.dll
+C:\Users\EliaW\Documents\1 UKDW\semester_10\Sorter\AnimasiSorting\AnimasiSorting\obj\Debug\AnimasiSorting.xml
+C:\Users\EliaW\Documents\1 UKDW\semester_10\Sorter\AnimasiSorting\AnimasiSorting\obj\Debug\AnimasiSorting.pdb
+C:\Users\Vivi\Documents\Visual Studio 2013\Projects\Sorter\AnimasiSorting\AnimasiSorting\bin\Debug\AnimasiSorting.dll
+C:\Users\Vivi\Documents\Visual Studio 2013\Projects\Sorter\AnimasiSorting\AnimasiSorting\bin\Debug\AnimasiSorting.pdb
+C:\Users\Vivi\Documents\Visual Studio 2013\Projects\Sorter\AnimasiSorting\AnimasiSorting\bin\Debug\AnimasiSorting.xml
+C:\Users\Vivi\Documents\Visual Studio 2013\Projects\Sorter\AnimasiSorting\AnimasiSorting\obj\Debug\AnimasiSorting.Resources.resources
+C:\Users\Vivi\Documents\Visual Studio 2013\Projects\Sorter\AnimasiSorting\AnimasiSorting\obj\Debug\AnimasiSorting.SortingPanel.resources
+C:\Users\Vivi\Documents\Visual Studio 2013\Projects\Sorter\AnimasiSorting\AnimasiSorting\obj\Debug\AnimasiSorting.vbproj.GenerateResource.Cache
+C:\Users\Vivi\Documents\Visual Studio 2013\Projects\Sorter\AnimasiSorting\AnimasiSorting\obj\Debug\AnimasiSorting.dll
+C:\Users\Vivi\Documents\Visual Studio 2013\Projects\Sorter\AnimasiSorting\AnimasiSorting\obj\Debug\AnimasiSorting.xml
+C:\Users\Vivi\Documents\Visual Studio 2013\Projects\Sorter\AnimasiSorting\AnimasiSorting\obj\Debug\AnimasiSorting.pdb
+C:\Users\Vivi\Documents\Visual Studio 2013\Projects\Sorter\AnimasiSorting\AnimasiSorting\obj\Debug\AnimasiSorting.vbprojResolveAssemblyReference.cache
